@@ -17,6 +17,7 @@
 @import url("../libraries/owl-carousel/owl.theme.css");
 @import url("../libraries/animate/animate.min.css");
 
+.tweet-link a:hover{color:#c8e600;}
 body {
 	max-width: 1920px;
 	margin: 0 auto !important;
@@ -3110,7 +3111,7 @@ iframe {
 .classes-programs {
 	background-color: #121627; 
 	color:#fff; 
-	min-height: 692px;
+	min-height: 872px;
 }
 
 /* carousel pagination */
@@ -3133,9 +3134,10 @@ iframe {
 
 .training-programs .owl-buttons { 
 	left: 0; 
-	position: absolute; 
+/*	position: absolute; */
 	right: 0; 
 	top: -87px;
+	display:none;
 }
 
 .classes-programs .training-programs .owl-controls {
@@ -3300,8 +3302,8 @@ iframe {
 ## 8. Section - Quotes ##
 ------------------------------------*/
 .quotes .ow-fixed-section { 
-	padding-top: 220px;
-	padding-bottom: 69px;
+	padding-top: 130px;
+	padding-bottom: 79px;
 }
 
 .quotes { 

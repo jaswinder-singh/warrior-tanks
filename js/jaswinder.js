@@ -178,7 +178,7 @@
 
 		$this.appear(function()
 		{
-			$('.digit-class').animateNumber({ number: 1235 }, 2000);
+			$('.digit-class').animateNumber({ number: 44 }, 2000);
 		});
 	});
 
