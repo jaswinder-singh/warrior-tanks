@@ -1,0 +1,255 @@
+<div id="scheduler-calendar" class="scheduler-calendar ow-fluid-section container-fluid">
+			<div class="section-header">
+				<div class="section-header-left col-md-5"></div>
+					<h2 class="section-title col-md-2"> <span class="seperate-title">check out the</span> <b>Schedule</b> & <b>calendar</b> </h2>
+				<div class="section-header-right col-md-5"></div>
+			</div>
+			<div class="ow-fixed-section container">
+				<div class="events-list-block col-md-8 col-lg-9">			
+					<ul class="calendar-days">
+						<li> <a href="#"> monday </a> </li>
+						<li> <a href="#"> tuesday </a> </li>
+						<li class="active"> <a href="#"> wednesday </a> </li>
+						<li> <a href="#"> thursday </a> </li>
+						<li> <a href="#"> friday </a> </li>
+						<li> <a href="#"> saturday </a> </li>
+						<li> <a href="#"> sunday </a> </li>
+					</ul>
+					<ul class="events-list">
+						<li class="col-sm-6 col-md-6 col-lg-4">						
+							<div class="events-list-inner">
+								<div class="first-block">
+									<div class="pull-right">
+										<span class="style-normal">8</span>
+										<div class="time-icons">
+											<span class="style-super">:00</span>
+											<span class="style-sub">AM</span>
+										</div>
+									</div>
+								</div>
+								<div class="second-block">
+									<a href="#">cardio X<span class="style-super">TM</span></a>
+									<hr>
+									<span class="event-by">With Kate Johnson</span>
+								</div>
+							</div>
+						</li>
+						<li class="col-sm-6 col-md-6 col-lg-4">						
+							<div class="events-list-inner">
+								<div class="first-block">
+									<div class="pull-right">
+										<span class="style-normal">12</span>
+										<div class="time-icons">
+											<span class="style-super">:00</span>
+											<span class="style-sub">AM</span>
+										</div>
+									</div>
+								</div>
+								<div class="second-block">
+									<a href="#">yoga beginners</a>
+									<hr>
+									<span class="event-by">with Maya Toitovna</span>
+								</div>
+							</div>
+						</li>
+						<li class="col-sm-6 col-md-6 col-lg-4">						
+							<div class="events-list-inner">
+								<div class="first-block">
+									<div class="pull-right">
+										<span class="style-normal">17</span>
+										<div class="time-icons">
+											<span class="style-super">:00</span>
+											<span class="style-sub">AM</span>
+										</div>
+									</div>
+								</div>
+								<div class="second-block">
+									<a href="#">zumba</a>
+									<hr>
+									<span class="event-by">With Kate Johnson</span>
+								</div>
+							</div>
+						</li>
+						<li class="col-sm-6 col-md-6 col-lg-4">						
+							<div class="events-list-inner">
+								<div class="first-block">
+									<div class="pull-right">
+										<span class="style-normal">9</span>
+										<div class="time-icons">
+											<span class="style-super">:00</span>
+											<span class="style-sub">AM</span>
+										</div>
+									</div>
+								</div>
+								<div class="second-block">
+									<a href="#">cardio X<span class="style-super">TM</span></a>
+									<hr>
+									<span class="event-by">With Kate Johnson</span>
+								</div>
+							</div>
+						</li>
+						<li class="col-sm-6 col-md-6 col-lg-4">						
+							<div class="events-list-inner">
+								<div class="first-block">
+									<div class="pull-right">
+										<span class="style-normal">12</span>
+										<div class="time-icons">
+											<span class="style-super">:40</span>
+											<span class="style-sub">AM</span>
+										</div>
+									</div>
+								</div>
+								<div class="second-block">
+									<a href="#">aerobic</a>
+									<hr>
+									<span class="event-by">with Maya Toitovna</span>
+								</div>
+							</div>
+						</li>
+						<li class="col-sm-6 col-md-6 col-lg-4">						
+							<div class="events-list-inner">
+								<div class="first-block">
+									<div class="pull-right">
+										<span class="style-normal">17</span>
+										<div class="time-icons">
+											<span class="style-super">:50</span>
+											<span class="style-sub">AM</span>
+										</div>
+									</div>
+								</div>
+								<div class="second-block">
+									<a href="#">pilates advanced</a>
+									<hr>
+									<span class="event-by">with Maya Toitovna</span>
+								</div>
+							</div>
+						</li>
+						<li class="col-sm-6 col-md-6 col-lg-4">						
+							<div class="events-list-inner">
+								<div class="first-block">
+									<div class="pull-right">
+										<span class="style-normal">10</span>
+										<div class="time-icons">
+											<span class="style-super">:00</span>
+											<span class="style-sub">AM</span>
+										</div>
+									</div>
+								</div>
+								<div class="second-block">
+									<a href="#">pilates beginners</a>
+									<hr>
+									<span class="event-by">With Kate Johnson</span>
+								</div>
+							</div>
+						</li>
+						<li class="col-sm-6 col-md-6 col-lg-4">						
+							<div class="events-list-inner">
+								<div class="first-block">
+									<div class="pull-right">
+										<span class="style-normal">14</span>
+										<div class="time-icons">
+											<span class="style-super">:30</span>
+											<span class="style-sub">AM</span>
+										</div>
+									</div>
+								</div>
+								<div class="second-block">
+									<a href="#">bodyrock<span class="style-super style-light">X</span></a>
+									<hr>
+									<span class="event-by">with Danny Morant</span>
+								</div>
+							</div>
+						</li>
+						<li class="col-sm-6 col-md-6 col-lg-4">						
+							<div class="events-list-inner">
+								<div class="first-block">
+									<div class="pull-right">
+										<span class="style-normal">18</span>
+										<div class="time-icons">
+											<span class="style-super">:30</span>
+											<span class="style-sub">AM</span>
+										</div>
+									</div>
+								</div>
+								<div class="second-block">
+									<a href="#">aerobic</a>
+									<hr>
+									<span class="event-by">With Kate Johnson</span>
+								</div>
+							</div>
+						</li>
+						<li class="col-sm-6 col-md-6 col-lg-4">						
+							<div class="events-list-inner">
+								<div class="first-block">
+									<div class="pull-right">
+										<span class="style-normal">11</span>
+										<div class="time-icons">
+											<span class="style-super">:15</span>
+											<span class="style-sub">AM</span>
+										</div>
+									</div>
+								</div>
+								<div class="second-block">
+									<a href="#">zumba</a>
+									<hr>
+									<span class="event-by">With Kate Johnson</span>
+								</div>
+							</div>
+						</li>
+						<li class="col-sm-6 col-md-6 col-lg-4">						
+							<div class="events-list-inner">
+								<div class="first-block">
+									<div class="pull-right">
+										<span class="style-normal">16</span>
+										<div class="time-icons">
+											<span class="style-super">:45</span>
+											<span class="style-sub">AM</span>
+										</div>
+									</div>
+								</div>
+								<div class="second-block">
+									<a href="#">muscle build <span class="style-bold">PRO</span><span class="style-super">TM</span></a>
+									<hr>
+									<span class="event-by">with Danny Morant</span>
+								</div>
+							</div>
+						</li>
+					</ul>
+				</div>
+				<div class="event-calendar-block col-md-4 col-lg-3">
+					<!-- Responsive calendar - START -->
+					<div class="responsive-calendar">					
+						<div class="today-events">
+							<div class="col-xs-4 col-md-5 col-lg-4">
+								<span>02</span>
+							</div>
+							<div class="col-xs-8 col-md-7 col-lg-8">
+								<span>Today’s events:</span>
+								<h2><a href="#">cardio X<span class="style-super">TM</span></a></h2>
+								<h2><a href="#">zumba special</a></h2>
+							</div>
+						</div>
+						<div class="controls">
+							<a class="pull-left" data-go="prev"><div class="btn"><i class="fa fa-angle-left"></i></div></a>
+							<p><span data-head-month></span> <span data-head-year></span></p>
+							<a class="pull-right" data-go="next"><div class="btn"><i class="fa fa-angle-right"></i></div></a>
+						</div>
+						<hr/>
+						<div class="day-headers">	
+							<div class="day header">Sun</div>
+							<div class="day header">Mon</div>
+							<div class="day header">Tue</div>
+							<div class="day header">Wed</div>
+							<div class="day header">Thu</div>
+							<div class="day header">Fri</div>
+							<div class="day header">Sat</div>						
+							<hr/>
+						</div>
+						<div class="days" data-group="days">
+						<!-- the place where days will be generated -->
+						</div>
+					</div>
+					<!-- Responsive calendar - END -->
+				</div>
+			</div><!-- /.container -->
+		</div><!-- /.container-fluid -->
