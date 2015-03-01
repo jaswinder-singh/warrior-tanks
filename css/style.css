@@ -1,11 +1,8 @@
 /*
-	Project:		  Warrior Tanks
-	Version:	    1.0
-	Author:       Jaswinder Singh [itsJaswinder]
+Project:	   Warrior Tanks
+Version:	   1.0
+Author:       Jaswinder Singh [itsJaswinder]
 */
-
-/*------------------------------------------------------------------
-
 
 /*------------------------------------
 ## 1. Global Styles ## 
@@ -598,24 +595,24 @@ iframe {
 .header-3 .flex-direction-nav .flex-prev,
 .slider-style-1 .flex-direction-nav .flex-prev,
 .header-4 .flex-prev { 
-	background-image: url("../images/header/header-1/slider-arrows/left_arrow_active.png"); 
+	background-image: url("../images/slider/left_arrow_active.png"); 
 }
 
 .slide-next, 
 .header-3 .flex-direction-nav .flex-next,
 .slider-style-1 .flex-direction-nav .flex-next,
 .header-4 .flex-next {
-	background-image: url("../images/header/header-1/slider-arrows/right_arrow_active.png"); 
+	background-image: url("../images/slider/right_arrow_active.png"); 
 }
 
 .slide-prev:hover, 
 .header-3 .flex-direction-nav .flex-prev:hover { 
-	background-image: url("../images/header/header-1/slider-arrows/left_arrow_disabled.png"); 
+	background-image: url("../images/slider/left_arrow_disabled.png"); 
 }
 
 .slide-next:hover, 
 .header-3 .flex-direction-nav .flex-next:hover { 
-	background-image: url("../images/header/header-1/slider-arrows/right_arrow_disabled.png"); 
+	background-image: url("../images/slider/right_arrow_disabled.png"); 
 }
 
 /* sticky-navigation Navigation */
@@ -3127,7 +3124,7 @@ iframe {
 .training-programs { 
 	display: inline-block; 
 	list-style: none outside none; 
-	margin: 40px 0 -136px;
+/*	margin: 40px 0 -136px; */
 	padding: 0; 
 	z-index: 1;
 }
