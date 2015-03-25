@@ -595,24 +595,24 @@ iframe {
 .header-3 .flex-direction-nav .flex-prev,
 .slider-style-1 .flex-direction-nav .flex-prev,
 .header-4 .flex-prev { 
-	background-image: url("../images/slider/left_arrow_active.png"); 
+	background-image: url("../images/slider/arrow_left_active.png"); 
 }
 
 .slide-next, 
 .header-3 .flex-direction-nav .flex-next,
 .slider-style-1 .flex-direction-nav .flex-next,
 .header-4 .flex-next {
-	background-image: url("../images/slider/right_arrow_active.png"); 
+	background-image: url("../images/slider/arrow_right_active.png"); 
 }
 
 .slide-prev:hover, 
 .header-3 .flex-direction-nav .flex-prev:hover { 
-	background-image: url("../images/slider/left_arrow_disabled.png"); 
+	background-image: url("../images/slider/arrow_left_disabled.png"); 
 }
 
 .slide-next:hover, 
 .header-3 .flex-direction-nav .flex-next:hover { 
-	background-image: url("../images/slider/right_arrow_disabled.png"); 
+	background-image: url("../images/slider/arrow_right_disabled.png"); 
 }
 
 /* sticky-navigation Navigation */
