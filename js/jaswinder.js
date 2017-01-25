@@ -179,7 +179,7 @@
 
 		$this.appear(function()
 		{
-			$('.digit-class').animateNumber({ number: 40 }, 2000);
+			$('.digit-class').animateNumber({ number: 32 }, 2000);
 		});
 	});
 
